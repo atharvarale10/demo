@@ -1,4 +1,4 @@
 # demo
-Author - Atharva Rale
+Author - Atharva Rale (SIT student)
 <br>
 This is my first git repo
